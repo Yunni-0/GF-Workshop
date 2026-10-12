@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A single AND gate
+2-bit Adder
 
 ## How to test
 
-Use switches 0 and 1 and get result from output pin 0
+Use switches 0 and 1 along with switches 4 and 5 to add 2 2-bit numbers
 
 ## External hardware
 
-A single LED
+A Seven Segment Display
